@@ -31,7 +31,7 @@
    <h3 align="center">Connect with me:</h3>
    
  [![Linkedin Badge](https://img.shields.io/badge/-Guilherme%20Pereira%20Schneidt-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-pereira-schneidt-3121a8174/)](https://www.linkedin.com/in/guilherme-pereira-schneidt-3121a8174/) 
-[![Gmail Badge](https://img.shields.io/badge/-guilhermepsch@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:guilhermepsch@gmail.com)](mailto:guilhermepsch@gmail.com) 
+[![Gmail Badge](https://img.shields.io/badge/-schneidtdev@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:schneidtdev@gmail.com)](mailto:schneidtdev@gmail.com) 
    
   
 </div>
