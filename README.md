@@ -3,8 +3,8 @@
 **About me**
 
 - 💼  Currently working as backend developer<br />
-- 📚  I'm currently studying React/React Native, Vue and Node.<br />
-- 📫  How to reach me: guilhermepsch@gmail.com <br/><br />
+- 📚  I'm currently studying Machine Learning.<br />
+- 📫  How to reach me: schneidtdev@gmail.com <br/><br />
 
 <div align='center'> 
    <img width="49%" height="200em" src="https://github-readme-stats.vercel.app/api?username=guilhermepsch&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
